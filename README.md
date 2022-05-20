@@ -41,3 +41,9 @@ ian =	{
 <p><a href="https://ian-bloomfield.github.io/resume/">
 <img src="https://user-images.githubusercontent.com/105882694/169593220-d1170fa4-01bb-4b00-a73b-d0fd347bc6e5.png" alt="resume image" width="40" height="49">
 </a></p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ian-bloomfield&show_icons=true&locale=en&layout=compact" alt="ian-bloomfield" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ian-bloomfield&show_icons=true&locale=en" alt="ian-bloomfield" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ian-bloomfield&" alt="ian-bloomfield" /></p>
