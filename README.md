@@ -2,7 +2,7 @@
   <img src="https://user-images.githubusercontent.com/105882694/169583850-59c31cbb-0f66-4035-84fb-c704b791c0ac.gif">
 </p>
 <h1 align="center">Hi 👋, I'm Ian Bloomfield</h1>
-<h3 align="center">An aspiring developer currently working in low-code development with the Ministry of Government and Consumer Services</h3>
+<h3 align="center">An aspiring developer looking to learn</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ian-bloomfield&label=Profile%20views&color=0e75b6&style=flat" alt="ian-bloomfield" /> </p>
 
