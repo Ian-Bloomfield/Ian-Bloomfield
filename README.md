@@ -8,6 +8,17 @@
 
 <h3 align="left">About Me:</h3>
 
+```
+ian =	{
+  "Name:": "Ian Bloomfield",
+  "Government:": "Ontario",
+  "Ministry": "Ministry of Government and Consumer Services",
+  "Position": "Low Code Developer Co-op",
+  "Office": "Rapid Prototype Design Unit",
+  "Organization": "GovTechON"
+}
+```
+
 - 🔭 I’m currently working with the **Ministry of Government and Consumer Services**
 
 - 🌱 I’m currently learning about **low-code development & machine learning**
