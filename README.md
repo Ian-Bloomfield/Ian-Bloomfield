@@ -30,7 +30,5 @@
 
 <h3 align="left">View My Resume:</h3>
 <p><a href="https://ian-bloomfield.github.io/resume/">
-<img src="https://user-images.githubusercontent.com/105882694/169592597-99f7f5a4-ef02-40fb-8574-2e0225ff5553.png" alt="resume image" width="100" height="100">
+<img src="https://user-images.githubusercontent.com/105882694/169593220-d1170fa4-01bb-4b00-a73b-d0fd347bc6e5.png" alt="resume image" width="40" height="49">
 </a></p>
-
-
