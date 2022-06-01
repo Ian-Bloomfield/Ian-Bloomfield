@@ -23,7 +23,7 @@ ian =	{
 
 - 🔭 I’m currently working with the **Ministry of Government and Consumer Services**
 
-- 🌱 I’m currently learning about **low-code development & machine learning**
+- 🌱 I’m currently learning about **low-code development, full stack web-development, and machine learning**
 
 - 📫 You can reach out to me at **ian@sepal.ca**
 
