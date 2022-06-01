@@ -19,11 +19,11 @@ ian =	{
 }
 ```
 
+- 💬 I'm currently a third year student at **The University of Waterloo** persuing a honours degree in Geomatics
+
 - 🔭 I’m currently working with the **Ministry of Government and Consumer Services**
 
 - 🌱 I’m currently learning about **low-code development & machine learning**
-
-- 💬 Ask me about **anything**
 
 - 📫 You can reach out to me at **ian@sepal.ca**
 
