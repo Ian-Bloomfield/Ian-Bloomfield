@@ -19,7 +19,7 @@ ian =	{
 }
 ```
 
-- 💬 I'm currently a third year student at **The University of Waterloo** persuing a honours degree in Geomatics
+- 💬 I'm currently a fourth year student at **The University of Waterloo** persuing a honours degree in Geomatics
 
 - 🔭 I’m currently working with the **Ministry of Government and Consumer Services**
 
