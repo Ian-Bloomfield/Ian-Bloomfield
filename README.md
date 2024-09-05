@@ -18,7 +18,7 @@ ian =	{
 }
 ```
 
-- 💬 I am a graduate from **The University of Waterloo** with a Bachelor of Environmental Studies in Geomatics with a minor in Computer Science
+- 💬 I'm a graduate from **The University of Waterloo** with a Bachelor of Environmental Studies in Geomatics with a minor in Computer Science
 
 - 🔭 I have previously **Ministry of Government and Consumer Services** and **Treasury Board Secretariat**
 
